@@ -1,3 +1,4 @@
 # hello-world
 
-I'm a newbie! Hang in there!!
+Heylo peeps!
+It's my first time learning stuff .. hang in there!
